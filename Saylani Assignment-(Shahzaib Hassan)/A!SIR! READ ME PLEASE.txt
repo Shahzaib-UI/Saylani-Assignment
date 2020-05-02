@@ -1,0 +1,7 @@
+﻿- Sir  I have added functionalities such as hyper referenes.
+- picture referances are of my personal desktop
+- all pitures are available in zip folder.
+- dropdowns nahe kiye i have tried multiple methods but did'nt suceed.
+- if there are any issues kindly inform me.
+- I have also addedmarque functionality kindly consider it. 
+- i have added bootstrap too for better UX
